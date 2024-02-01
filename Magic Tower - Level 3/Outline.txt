@@ -1,0 +1,227 @@
+# Intro
+	Location: Womford
+		Performed simple tasks
+			Guarding transports
+			Helped residents
+			training
+		Boredom sets in
+		Last job: chase away goblins
+		Received reward and bought new equipment
+		Group strolls through the market to find a stand with healing potions
+	Penelope Marabur
+		You reach a stall with all kinds of glass vials and bottles of different colors.
+		All around the stall there is the smell of herbs for sale, some of them hanging from the marquee, others on display.
+		A young-looking human woman stands behind the display and smiles at you as you approach the stall.
+		She is wearing a dark blue robe decorated with fine patterns in a lighter shade of blue.
+		Her brunette hair is braided into a thick plait and is thrown forward over her right shoulder.
+		Sale:
+			Antitoxin - 50gp
+			Potion of Healing (2d4 + 2) - 50gp
+			Potion of Greater Healing (4d4 + 4) - 150gp
+			Potion of Darkvision (1d4 hrs) - 50gp
+			Potion of Advantage - 100gp - When you drink this potion, you gain advantage on one ability check, attack roll, or saving throw of your choice that you make within the next hour.
+			Philter of Love - 90gp
+			Healer's Kit - 5gp
+			Oil (Flask) - 1gp
+			Perfume (vial) - 5gp
+	Mission
+		Penelope and her partner Nathaniel (knowledge magician)
+		Common residence
+		Magic tower in the Crypt Garden Forest (north-west of the Shipwright's Inn)
+			Owner: Alabaster Shadow Mist
+				Level 14 Wizard
+				Specializes in illusions and portals
+				Whereabouts: Lost for years
+			Magically locked. Abandoned for years, owner not seen for years.
+		If the owner is missing or dead, they want to claim the tower for themselves.
+		Group should explore the tower and find out what happened to Alabaster.
+		They can keep what they find.
+		Penelope has a scroll for them that will unlock the lock.
+		
+
+Music:
+https://looptube.io/?videoId=my-3y6BKvUo&start=842&end=1131&rate=1
+
+
+# Reception
+	Game of dragon chess
+
+	Table with food, looks delicious
+		touch: feels mushy and soft.
+		Eat: tastes pale. Consitution DC 10: spit out, or throw up
+		Arcana DC 5 / Investigation DC 10: Illusion, the food must be bad
+		
+	Desk
+		Receptionist
+			Mechanical construct
+				Arcana DC 5: A construct powered by magic, magic power source empty
+				Arcana DC 10: magic power source empty, attempt to reanimate
+				d20 + Spell Attack:
+					1: Fail
+					2-10: 1 attempt
+					11-15: 2 attempts
+					16-20+: 3 attempts
+					Ramps up in rudimentary mode, only simple memory queries.
+					3 attempts
+					1-2 "Log... Visitor...Record..."
+					3-4 "Guard... Danger... Pass..."
+					5-6 "Delivery... Transportation... Chest..."
+					7-8 "Worlds... continue... continue... continue..."
+					9-10 "Portal... Passport... Desk..."
+					11-12 "Stairs... Endless... Each direction unique..."
+		Drawer
+			Locked: DC 15 (https://blackcitadelrpg.com/picking-locks-5e/)
+			Wooden emblems, magical, Arcana check DC 5: Magical "key" aura, unsure if complete
+		Notes
+			Appointment calendar
+			Letters from petitioners and suppliers
+		Box
+			Empty, item placed inside, closed, empty again, everything gone -> teleport to another crate
+	Rear portal
+		When the steps are entered:
+			Without key
+				Guardian statues become active - Battle
+			With key
+				The lightning calms down and turns into a web that slowly swings as if in the wind
+				Go through for decontamination chamber
+
+
+# Decontamination chamber
+	Three doors, appear to be set into the wall
+		locked
+		Characters above each door, draconic, numbers in spiral form from 40 on the outside to 0 on the inside
+	Stone basin surrounded by magical-looking liquid
+		Switch in the center with handprint
+
+	Switch is pressed
+		Numbers light up yellow
+		Countdown
+			20 orange
+			10 red
+			5 flashing
+			2 Room is being darkened
+			0 Completed
+				Room becomes bright
+				Magic voice: Decontamination completed
+				You hear the sound of an unlocking device
+	Exit North
+		-> Room of Worlds
+	Exit East
+		Stairs go up with a bend (into the wall?!)
+		-> Endless Stairs
+	Exit West
+		-> Watchers
+
+
+# Endless Stairs
+	Windows
+		Showing landscape outside, invisible barrier
+	Sudoku with 3x3 symbols in the center
+		1: Glove and Eye of Helm - The Watchful One, one of the oldest gods
+		2: Selûne and Shar combined symbol, the twin sisters: Selûne Night-White Lady / Shar - Mistress of the Night
+		3: Myrkul, Bane, Bhaal, The Three Lords, Evil Triumvirate, The Dead Three
+		Solve to unlock stairs
+	Alternative solutions
+		Go backwards up the stairs
+	Analyze the mechanics of the pressure plates
+		Investigation DC 5: Weight is important
+		Investigation DC 10: Weight per row important
+		Investigation DC 12: Weight per row important, columns too!
+		Disarm DC: 15
+	Output:
+	
+	
+# Room of Worlds
+	Door at the other end
+	Tiles as triggers
+		Each tile makes the surroundings appear different
+		Person becomes invisible for so long, but is still in the same place
+		10min duration per tile
+	Colors:
+		Red: Fire / Avernus
+		Blue: Water / Ankle-deep sea
+		White: Air / Ice storm
+		Yellow: Earth / Desert
+		Green: Fairy realm
+		Black: Shadow realm
+	Investigation:
+		Intelligence DC 10: Footstep switch
+		Intelligence DC 15: You move normally in the room
+			Arcana DC 10: Illusions
+			Arcana DC 15: Glyphs for the respective illusion are incorporated into the flow.
+							You continue to move normally in the room
+	Exit:
+			
+
+# Watchers
+	Spectator
+	2x Animated Armor
+	Exit:
+		
+
+
+# Library
+	Windows
+		Show landscape outside, invisible barrier, same view from every floor
+	Book on podium
+		Warlock Wisdom DC: 10: "Ahhh someone was looking for a connection to me..."
+	Desk other end
+		Research notes
+			Cloud waves break along the coast,
+			The twin suns sink beneath the sea,
+			The shadows grow longer
+			In Carcosa. 
+
+			Strange is the night when black stars rise,
+			And strange moons circle through the sky,
+			But stranger still is
+			The lost Carcosa. 
+
+			Songs that the Hyades shall sing there,
+			Where the king's rags flutter,
+			Must die unheard in
+			Gloomy Carcosa. 
+
+			Song of my soul, my voice is dead;
+			Die thou, unsung, like unshed tears that
+			Shall dry and die in the
+			Lost Carcosa. 
+		
+		Scroll of Fireball
+	Bookshelves
+		https://www.dndspeak.com/2018/02/19/100-library-books/
+	
+	
+# Living space
+	Windows
+		Show landscape outside, invisible barrier, same view from every floor
+	Easel
+		An eerie city consisting of many towers. Above it two suns.
+		It lies on a large lake that lets dense masses of fog drift through its buildings.
+	Chandelier
+		Illusion "The Great Wheel", shows the planes outside the material plane
+	Desk
+		Potion of healing
+		Book about the tower's security systems
+			More details about the rooms, including those you have not visited
+			Expansion: Decontamination chamber installed to prevent further outbreaks of mage flu.
+			Last one was particularly bad. Had a stuffy nose for three days and couldn't smell or taste anything!!!
+		How to operate the portal in the roof
+
+
+# Bearing
+	Mechanical construct
+		Advantage on activation if reception has worked
+		"Protocol... Stock..."
+		"Crate... Contents... Store..."
+		"Sorting... Clean... Deploy..."
+	Loot
+		600gp
+		Googles of Nightvision
+		Immovable Rod
+	Portal
+		Back to Entrance
+
+# End
+Penelope waits at the exit of the tower
+The activation of the scroll has notified her.
